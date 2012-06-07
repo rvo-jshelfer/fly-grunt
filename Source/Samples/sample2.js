@@ -1,0 +1,1 @@
+var enterprise = 'Live long and prosper.';

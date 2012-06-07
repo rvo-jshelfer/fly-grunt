@@ -1,0 +1,18 @@
+{
+
+"sample1": "sample1",
+"Samples/sample2": "Samples/sample2",
+"Stuff/sampleCollection": [
+	"sample1",
+	"Samples/sample2",
+	"Samples/sample3"
+],
+"Samples/anotherSampleCollection": {
+	"path": "Samples/",
+	"files": [
+		"sample2",
+		"sample3"
+	]
+}
+
+}
